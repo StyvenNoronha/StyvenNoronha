@@ -14,7 +14,7 @@ Olá! Eu sou o **Styven Noronha**. Seja bem-vindo ao meu espaço de projetos e c
 API desenvolvida com **TypeScript**, **Express** e **Knex.js**, voltada para a gestão de mesas, sessões, pedidos e produtos em um restaurante.
 ## Contato
 
-- 📫 **Email**: [styven.email@dominio.com](mailto:styvenn16@gmail.com)
+- 📫 **Email**: [styven](mailto:styvenn16@gmail.com)
 - 💼 **LinkedIn**: [Styven Noronha](https://www.linkedin.com/in/styvennoronha)
 
 Fique à vontade para explorar meus repositórios e contribuir com sugestões, issues ou pull requests. Vamos colaborar e crescer juntos na comunidade de tecnologia!
