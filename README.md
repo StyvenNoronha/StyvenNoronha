@@ -15,7 +15,7 @@ API desenvolvida com **TypeScript**, **Express** e **Knex.js**, voltada para a g
 ## Contato
 
 - 📫 **Email**: [styven](mailto:styvenn16@gmail.com)
-- 💼 **LinkedIn**: [Styven Noronha](https://www.linkedin.com/in/styvennoronha)
+- 💼 **LinkedIn**: [Styven Noronha](https://www.linkedin.com/in/styven-noronha)
 
 Fique à vontade para explorar meus repositórios e contribuir com sugestões, issues ou pull requests. Vamos colaborar e crescer juntos na comunidade de tecnologia!
 
